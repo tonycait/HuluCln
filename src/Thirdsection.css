@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.section3 {
+  background-color: #292b2c;
+  height: 95vh;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  max-width: 60%;
+}
+
+.text-container .title1,
+.title2,
+.title3,
+.title4 {
+  margin-top: 70px;
+}
+
+.title1 {
+  color: #1ce783;
+}
+
+.title2 {
+  color: white;
+  font-size: 4rem;
+}
+
+.title3 {
+  color: white;
+  font-size: 20px;
+  font-style: thin;
+  width: 600px;
+}
+
+.title4 {
+  color: white;
+  font-size: 10px;
+}

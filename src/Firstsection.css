@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-background {
+  height: 90vh;
+  background-image: url(./images/huluback.jpg);
+  background-size: cover;
+  -webkit-box-shadow: inset 4px 18px 89px -29px rgba(0, 0, 0, 1);
+  -moz-box-shadow: inset 4px 18px 89px -29px rgba(0, 0, 0, 1);
+  box-shadow: inset 4px 18px 89px -29px rgba(0, 0, 0, 1);
+}
+
+.header-background nav h3 {
+  padding: 20px;
+  color: white;
+  font-size: 1rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+  align-content: center;
+}
+
+.header-background nav {
+  margin-bottom: 80px;
+}
+
+.title {
+  color: #1ce783;
+  font-size: 0.8rem;
+  margin: 10px;
+}
+
+.section1 .header-background h2 {
+  color: white;
+}
+
+.btn {
+  height: 55px;
+  width: 200px;
+  margin: 30px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.section1 .header-background .container img {
+  width: 35%;
+  height: 35%;
+  object-fit: cover;
+  margin: 20px;
+}
+
+.section1 .header-background .container h2 {
+  margin: 20px;
+  width: 700px;
+  text-align: center;
+}
+
+.section1 .container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+}
