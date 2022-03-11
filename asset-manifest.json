@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/HuluCln/static/css/main.1e5f1522.css",
+    "main.js": "/HuluCln/static/js/main.b2fcf242.js",
+    "static/js/787.28cb0dcd.chunk.js": "/HuluCln/static/js/787.28cb0dcd.chunk.js",
+    "static/media/huluback.jpg": "/HuluCln/static/media/huluback.947968eed8819a505079.jpg",
+    "static/media/asset5.jpeg": "/HuluCln/static/media/asset5.e2a7c803ddcd4d46a645.jpeg",
+    "static/media/logos.png": "/HuluCln/static/media/logos.13703cbc82126391dfd1.png",
+    "static/media/asset6.jpeg": "/HuluCln/static/media/asset6.17586fddc807d71876f8.jpeg",
+    "static/media/asset3.jpeg": "/HuluCln/static/media/asset3.ad7ef16827f369f27b57.jpeg",
+    "static/media/asset4.jpeg": "/HuluCln/static/media/asset4.15e1fea96117be4048b9.jpeg",
+    "index.html": "/HuluCln/index.html",
+    "main.1e5f1522.css.map": "/HuluCln/static/css/main.1e5f1522.css.map",
+    "main.b2fcf242.js.map": "/HuluCln/static/js/main.b2fcf242.js.map",
+    "787.28cb0dcd.chunk.js.map": "/HuluCln/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e5f1522.css",
+    "static/js/main.b2fcf242.js"
+  ]
+}
